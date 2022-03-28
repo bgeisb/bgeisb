@@ -1,6 +1,6 @@
 ## Hey, I'm Benedikt 👋
 
-### Student @TUM, working student @Scandio and frontend enthusiast
+### Student [@TUM](https://www.tum.de/), working student [@Scandio](https://scandio.de/) and frontend enthusiast
 
 🔭 I’m currently working on my Swift development skills
 
