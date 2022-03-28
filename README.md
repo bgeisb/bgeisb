@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on great Swift applications, modern UX designs and useful packages 
 
-📫 How to reach me:
+📫 Connect with me:
 
 <p align="left">
 <a href="https://twitter.com/b_geisb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_geisb" height="30" width="40" /></a>
