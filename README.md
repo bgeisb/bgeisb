@@ -1,12 +1,11 @@
 ## Hey, I'm Benedikt 👋
 
-### Student [@TUM](https://www.tum.de/), working student [@Scandio](https://scandio.de/) and UI/UX enthusiast
+### Founder of [Layr Eight](www.layreight.de) and UI/UX Enthusiast.
 
-🔭 I’m currently working on my Swift development skills
+🔭 I’m currently focusing on developing innovative user-centered digital experiences with Layr Eight
 
-🌱 I’m currently learning and practicing cloud engineering
+👯 I’m open to collaborating on projects that involve cutting-edge UX designs and impactful digital solutions
 
-👯 I’m looking to collaborate on great Swift applications, modern UX designs and useful packages 
 
 📫 Connect with me:
 
