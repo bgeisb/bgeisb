@@ -1,6 +1,6 @@
 ## Hey, I'm Benedikt 👋
 
-### Founder of [Layr Eight](www.layreight.de) and UI/UX Enthusiast.
+### Founder of [Layr Eight](https://www.layreight.de/) and UI/UX Enthusiast.
 
 🔭 I’m currently focusing on developing innovative user-centered digital experiences with Layr Eight
 
